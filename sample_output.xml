@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CG_Details>
+    <PAN>BA123XFQ</PAN>
+    <AY>2017-18</AY>
+    <In_INR/>
+    <cg_INR/>
+    <CG>
+        <Type>Equity shares in listed companies in India - equity oriented mutual funds(listed - unlisted)in India</Type>
+        <Particulars>SAIL</Particulars>
+        <DateOfSale>21575</DateOfSale>
+        <SaleValue>21575</SaleValue>
+        <SaleExpences>114</SaleExpences>
+        <DateOfPurchase>20/05/0016</DateOfPurchase>
+        <PurchaseCost>20003</PurchaseCost>
+        <PurchaseExpenses>103</PurchaseExpenses>
+        <STT_Paid>Yes</STT_Paid>
+    </CG>
+</CG_Details>
